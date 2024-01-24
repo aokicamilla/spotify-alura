@@ -177,6 +177,7 @@ body {
   padding: 15px 40px;
   display: flex;
   justify-content: space-between;
+  max-height:10%;
 }
 
 .disclaimer-premium h3 {
@@ -201,5 +202,6 @@ body {
   font-weight: 700;
   width: 10rem;
   border: none;
+  cursor: pointer;
 }
 
