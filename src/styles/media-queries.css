@@ -1,0 +1,19 @@
+@media screen and (max-width:1015px) {
+    .offer__list-item {
+        grid-template-columns: 1fr 1fr;
+    }
+    .header__search {
+        width: 17rem;
+        height: 2rem;
+        margin-left: 1rem;
+        margin-right: 0;
+    }
+
+    .header__login {
+        margin-left: 0;
+    }
+
+    .header__login .subscribe {
+        margin:0;
+    }   
+}
